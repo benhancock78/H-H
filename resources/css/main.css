@@ -114,11 +114,11 @@ hero */
     padding-top: 40px;
 }
   .hero_info_box  {
-
     height: 350px;
     background-color: rgb(37,53,67, 0.8);
     padding-left: 15px;
     padding-top: 10px;
+    visibility: visible;
   }
     .hero_info_box  li {
       font-size: 1.5rem;
