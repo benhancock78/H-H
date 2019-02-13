@@ -115,6 +115,7 @@ hero */
 }
   .hero_info_box  {
     height: 350px;
+    background-color: rgb(37,53,67);
     background-color: rgb(37,53,67, 0.8);
     padding-left: 15px;
     padding-top: 10px;
